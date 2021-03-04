@@ -1,15 +1,15 @@
-#Samuel's Profile
+# Samuel's Profile
 - Samuel is from Nigeria and he lives in Belguim.
 - He has a master degree in engineering geology from United Kingdom and he is currently a researcher.
 - He is learning Dutch.
 - He is also following Hack Your Future course in Brussels.
 
-#Hobby
+# Hobby
 - He likes cooking.
 - He likes fixing computer gadgets.
 - He likes research.
 
-#Ambitions
+# Ambitions
 - He want to be a creative webdeveloper.
 - He want to be a research scientist.
 
